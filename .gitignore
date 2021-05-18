@@ -4,3 +4,5 @@ assignments/pfinal.ipynb
 dataFiles/natural_images.zip
 assignments/natural_images/natural_images/*
 
+dataFiles/ExoPlanetTest.csv
+dataFiles/ExoPlanetTrain.csv
